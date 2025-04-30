@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Simplified</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container nav">
+      <h1>The Simplified</h1>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#" class="btn">Buy Notes</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <div class="text">
+        <h2>Online Notes for Every Student</h2>
+        <p>Access high-quality study materials and resources at your convenience.</p>
+        <a href="#" class="btn-primary">Browse Notes</a>
+      </div>
+      <div class="image">
+        <img src="https://img.icons8.com/fluency/96/document--v1.png" alt="Notes">
+      </div>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Welcome to The Simplified – your trusted source for simplified notes crafted for competitive exam aspirants. We believe in making learning accessible, affordable, and effective through well-structured PDF materials.</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 The Simplified. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
